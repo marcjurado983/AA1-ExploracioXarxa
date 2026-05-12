@@ -41,4 +41,5 @@ El mètode actiu implica interactuar directament amb el sistema o la xarxa objec
 
 ## NMAP
 
+![coneixent](img/capturazebe.png)
 
