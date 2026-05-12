@@ -43,3 +43,9 @@ El mètode actiu implica interactuar directament amb el sistema o la xarxa objec
 
 ![coneixent](img/capturazebe.png)
 
+
+![coneixent](img/capturazebe1.png)
+
+
+![coneixent](img/zebe2.png)
+
